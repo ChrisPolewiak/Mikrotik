@@ -1,0 +1,4 @@
+:log info "checking for updates"
+
+/system package update check-for-updates
+/system package update install
